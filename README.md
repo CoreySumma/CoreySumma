@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Corey</h1>
+<h2 align="center">Hi, I'm Corey</h1>
 <h3 align="center">A passionate full-stack developer with a focus in frontend development.</h3>
 
-- An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
+🌱 I’m currently learning **the MERN stack** as a part of General Assemblys Software Engineer bootcamp!
 
-- 🌱 I’m currently learning **the MERN stack**
+<h4><u>Feel free to check out some of my projects</u><h4>
+
+- An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
 - An example of my work with Express [SpotLabs](https://github.com/CoreySumma/mongoose-playlist)
 
 - A group project I did in Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
 
-- 📫 How to reach me **CoreySumma@gmail.com**
+<h4> 📫 How to reach me **CoreySumma@gmail.com**</h4>
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1FikFZyni0Y4ejtFGm4GeL6aMUKEcGR8hkFjCMNPHecs/edit](https://docs.google.com/document/d/1FikFZyni0Y4ejtFGm4GeL6aMUKEcGR8hkFjCMNPHecs/edit)
 
