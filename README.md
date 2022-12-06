@@ -18,6 +18,8 @@
 <hr>
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1FikFZyni0Y4ejtFGm4GeL6aMUKEcGR8hkFjCMNPHecs/edit](https://docs.google.com/document/d/1FikFZyni0Y4ejtFGm4GeL6aMUKEcGR8hkFjCMNPHecs/edit)
+  
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
