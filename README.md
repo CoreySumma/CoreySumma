@@ -5,15 +5,15 @@
 
 <h4><u>Feel free to check out some of my projects</u><h4>
 
-- An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
+- An example of my work with vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
 - An example of my work with Express [SpotLabs](https://github.com/CoreySumma/mongoose-playlist)
 
-- A group project I did in Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
+- A group project I did with Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
 
 <hr>
 
-<h4> 📫 How to reach me **CoreySumma@gmail.com**</h4>
+<h4> 📫 How to reach me: CoreySumma@gmail.com </h4>
   
 <hr>
 
