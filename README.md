@@ -58,4 +58,4 @@
   <hr>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coreysumma&show_icons=true&locale=en&layout=compact" alt="coreysumma" /></p>
   <hr>
- <p>⚡ Fun fact ----> I love music and taught myself how to play the guitar at a very young age<p>
+ <p align="center">⚡ Fun fact ----> I love music and taught myself how to play the guitar at a very young age<p>
