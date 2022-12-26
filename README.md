@@ -10,6 +10,8 @@
 - An example of my work in Express [SpotLabs](https://github.com/CoreySumma/mongoose-playlist)
 
 - A group project I did in Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
+  
+- My MERN stack project [MiState](https://mistate.herokuapp.com/)
 
 <hr>
 
