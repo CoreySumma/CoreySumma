@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Corey</h1>
-<h3 align="center">A passionate full-stack developer with a focus in frontend development.</h3>
+<h3 align="center">A passionate full-stack developer.</h3>
 
 🌱 I’m currently developing a portfolio website for my work
 
