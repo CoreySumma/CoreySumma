@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Corey</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
 
-🌱 I’m currently learning more about algorithms and solving complex problems. 
+🌱 I’m currently learning more about algorithms and solving complex problems, with more elegant solutions. 
 
 <h4><u>Feel free to check out some of my projects</u><h4>
 
