@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning more about algorithms and solving complex problems, with more elegant solutions. 
 
-<h4><u>Feel free to check out some of my projects</u><h4>
+Feel free to check out some of my projects on my [Website Portfolio](https://coreysumma.github.io/portfolioweb/)
 
 - An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
