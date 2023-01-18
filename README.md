@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Corey</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
 
-🌱 I’m currently working on a Django powered app that organizes and stores your videogames. 
+🌱 I’m currently working on a Django powered app that organizes and stores your videogames/Progress.  I am also learning more about Agile and Electron frameworks.
 
 Feel free to check out some of my projects on my [Website Portfolio](https://coreysumma.github.io/portfolioweb/)
 
