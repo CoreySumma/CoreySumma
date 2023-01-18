@@ -3,13 +3,13 @@
 
 🌱 I’m currently working on a Django powered app that organizes and stores your videogames/Progress.  I am also learning more about Agile and Electron frameworks.
 
-Feel free to check out some of my projects on my [Website Portfolio](https://coreysumma.github.io/portfolioweb/)
+Please feel free to check out my projects on my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me.
 
 - An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
-- An example of my work in Express [SpotLabs](https://github.com/CoreySumma/mongoose-playlist)
+- An example of my work with Express [SpotLabs](https://github.com/CoreySumma/mongoose-playlist)
 
-- A group project I did in Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
+- A group project I did with Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
   
 - My MERN stack project [MiState](https://mistate.herokuapp.com/)
 
