@@ -10,6 +10,8 @@ Please feel free to check out my projects on my [Website Portfolio](https://core
 - An example of my work with Express [SpotLabs](https://github.com/CoreySumma/mongoose-playlist)
 
 - A group project I did with Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
+
+- An individual project I did with Django [game_shelf](https://videogameshelf.herokuapp.com/)
   
 - My MERN stack project [MiState](https://mistate.herokuapp.com/)
 
