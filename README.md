@@ -3,9 +3,7 @@
 
 🌱 I’m currently learning React Native.
 
-<p align="center">
-Please feel free to check out my projects on my ---> [Website Portfolio](https://coreysumma.github.io/portfolioweb/) <--- and learn a little bit more about me.
-          </p>                                                                                                                     
+Please feel free to check out my projects on my ---> [Website Portfolio](https://coreysumma.github.io/portfolioweb/) <--- and learn a little bit more about me.                                                                                                         
                                                                                                                             
                                                                                                     
 
