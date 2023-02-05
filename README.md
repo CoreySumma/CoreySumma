@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning React Native.
 
-Please feel free to check out my projects on my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me.
+Please feel free to check out my projects on my ---> [Website Portfolio](https://coreysumma.github.io/portfolioweb/) <--- and learn a little bit more about me.
 
 - An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
