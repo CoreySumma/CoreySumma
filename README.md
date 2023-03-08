@@ -6,6 +6,7 @@
 Please feel free to check out my projects on my ---> [Website Portfolio](https://coreysumma.github.io/portfolioweb/) <--- and learn a little bit more about me.                                                                                                         
                                                                                                                             
                                                                                                     
+- My React Project that consumes two third party API's [AI SMS Generator](https://github.com/CoreySumma/sms-generator-deploy)
 
 - An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
@@ -13,9 +14,9 @@ Please feel free to check out my projects on my ---> [Website Portfolio](https:/
 
 - A group project I did with Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
 
-- An individual project I did with Django [game_shelf](https://videogameshelf.herokuapp.com/)
+- An individual project I did with Django [game_shelf](https://github.com/CoreySumma/videogamecollector)
   
-- My MERN stack project [MiState](https://mistate.herokuapp.com/)
+- My MERN stack project [MiState](https://github.com/CoreySumma/mern-mistate)
 
 <hr>
 
