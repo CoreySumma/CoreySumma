@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Corey</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
 
-🌱 I’m currently working at a startup helping launch a generative AI based ecommerce web application.
+🌱 I’m currently learning Agile methodology as a contracted developer at a start up.
 
 Please feel free to check out my projects on my ---> [Website Portfolio](https://coreysumma.github.io/portfolioweb/) <--- and learn a little bit more about me.                                                                                                         
                                                                                                                             
