@@ -1,14 +1,14 @@
 <h2 align="center">Hi, I'm Corey</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
 
-🌱 I’m currently implementing generative AI technologies as a contracted developer at a start up.
+🌱 I’m currently learning Redux.
 
 Please feel free to check out my projects on my ---> [Website Portfolio](https://coreysumma.github.io/portfolioweb/) <--- and learn a little bit more about me.                                                                                                         
                                                                                                                             
                                                                                                     
-- A React Project that consumes four third party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
+- A React Project that consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
 
-- A React Project that consumes two third party API's [AI SMS Generator](https://github.com/CoreySumma/sms-generator-deploy)
+- A React Project that consumes two 3rd party API's [AI SMS Generator](https://github.com/CoreySumma/sms-generator-deploy)
 
 - An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
