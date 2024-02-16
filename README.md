@@ -1,22 +1,19 @@
 <h2 align="center">Hi, I'm Corey</h1>
-<h3 align="center">A passionate problem solver and Full-Stack Software Developer.</h3>
+<h3 align="center">Full-Stack Software Developer.</h3>
+<h4>As a passionate problem solver, I am enthusiastic about modern technologies and dedicated to finding simple and efficient solutions for complex challenges.</h4>
 
 🌱 I’m currently learning C# and Dotnet.
 
-Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me, my professional experience, and to view a full list of my projects.                                                                                                        
-                                                                                                                            
+Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me, my professional experience, and to view a full list of my projects.
+<br />
+
+Current Projects:
+
+- Chatbot that enbodies my personality, projects, and experience that can see and hear the user [Corbot3.0](https://corbotthree.netlify.app/)
                                                                                                     
-- A React project that consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
-
-- An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
-
-- An example of my work with Express [SpotLabs](https://github.com/CoreySumma/mongoose-playlist)
-
-- A group project I did with Django [[codemonk]](https://github.com/ultimoakim/-codemonk-)
-
-- An individual project I did with Django [game_shelf](https://github.com/CoreySumma/videogamecollector)
+- SPA using React consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
   
-- My MERN stack project [MiState](https://github.com/CoreySumma/mern-mistate)
+- MERN stack digital journal application [MiState](https://github.com/CoreySumma/mern-mistate) - login with email: guest@email.com pw: visitor123!
 
 <hr>
 
