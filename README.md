@@ -1,14 +1,12 @@
 <h2 align="center">Hi, I'm Corey</h1>
-<h3 align="center">A passionate full-stack developer.</h3>
+<h3 align="center">A passionate problem solver and Full-Stack Software Developer.</h3>
 
-🌱 I’m currently learning Redux.
+🌱 I’m currently learning C# and Dotnet.
 
-Please feel free to check out my projects on my ---> [Website Portfolio](https://coreysumma.github.io/portfolioweb/) <--- and learn a little bit more about me.                                                                                                         
+Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me, my professional experience, and to view a full list of my projects.                                                                                                        
                                                                                                                             
                                                                                                     
-- A React Project that consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
-
-- A React Project that consumes two 3rd party API's [AI SMS Generator](https://github.com/CoreySumma/sms-generator-deploy)
+- A React project that consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
 
 - An example of my work in vanilla JS [SpaceMan](https://github.com/CoreySumma/Spaceman)
 
@@ -26,7 +24,7 @@ Please feel free to check out my projects on my ---> [Website Portfolio](https:/
   
 <hr>
 
-- [📄 Know about my experiences](https://docs.google.com/document/d/1kvvz5-4-0OS0V_ZrJwSskNSt3ymtUVnUCoPULb6vucw/edit?usp=sharing)
+- [📄 Know about my experiences](https://docs.google.com/document/d/13lGpicQe8_Z4O0hYX-KO5eWAg9obWQ8SahvrGoO7EdY/edit)
   
 <hr>
 
