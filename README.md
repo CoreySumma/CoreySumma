@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Corey</h1>
 <h3 align="center">Full-Stack Software Developer.</h3>
-<h4>As a passionate problem solver, I am enthusiastic about modern technologies and dedicated to finding simple and efficient solutions for complex challenges. I value innovation, collaboration, and growth.</h4>
+<h4>As a passionate problem solver, I am enthusiastic about modern technologies and dedicated to finding simple and efficient solutions for complex challenges.</h4>
 
 🌱 I’m currently learning C# and Dotnet.
 
