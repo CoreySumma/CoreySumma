@@ -11,7 +11,7 @@ Current Projects:
 
 - Chatbot that embodies my personality, projects, and experience that can see and hear the user[Corbot3.0](https://github.com/CoreySumma/corBot/tree/videorecorder)
                                                                                                     
-- SPA using React consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
+- SPA using React consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology/tree/test)
   
 - MERN stack digital journal application [MiState](https://github.com/CoreySumma/mern-mistate) - login with email: guest@email.com pw: visitor123!
 
