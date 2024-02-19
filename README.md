@@ -9,7 +9,7 @@ Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portf
 
 Current Projects:
 
-- Chatbot that embodies my personality, projects, and experience that can see and hear the user [Corbot3.0](https://corbotthree.netlify.app/)
+- Chatbot that embodies my personality, projects, and experience that can see and hear the user [Corbot3.0]([https://corbotthree.netlify.app/](https://github.com/CoreySumma/corBot/tree/videorecorder))
                                                                                                     
 - SPA using React consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology)
   
