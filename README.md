@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Developer.</h3>
 <h4>As a passionate problem solver, I am enthusiastic about modern technologies and dedicated to finding simple and efficient solutions for complex challenges.</h4>
 
-🌱 I’m currently learning C# and Dotnet.
+🌱 I’m currently learning and growing at a startup as an intern.
 
 Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me, my professional experience, and to view a full list of my projects.
 <br />
