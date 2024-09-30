@@ -9,7 +9,7 @@ Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portf
 
 (The code on some of these is pretty rough now that I am looking back at them)
 
-Current Projects:
+Featured Projects:
 
 - Chatbot that embodies my personality, projects, and experience that can see and hear the user [Corbot3.0](https://github.com/CoreySumma/corBot/tree/videorecorder)
                                                                                                     
