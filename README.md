@@ -2,17 +2,17 @@
 <h3 align="center">Full-Stack Software Developer.</h3>
 <h4>As a passionate problem solver, I am enthusiastic about modern technologies and dedicated to finding simple and efficient solutions for complex challenges.</h4>
 
-🌱 I’m currently learning and growing at a startup as a FrontEnd Engineer.
+🌱 I’m currently refacotring some of my older projects to match best practices.
 
 Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me, my professional experience, and to view a full list of my projects.
 <br />
 
 Featured Projects:
 
-- Chatbot that embodies my personality, projects, and experience that can see and hear the user [Corbot3.0](https://github.com/CoreySumma/corBot/tree/videorecorder)
-                                                                                                    
 - SPA using React consumes five 3rd party API's to generate daily horoscopes [AI Daily Horoscope](https://github.com/CoreySumma/astrology/tree/test)
   
+- Chatbot that embodies my personality, projects, and experience that can see and hear the user [Corbot3.0](https://github.com/CoreySumma/corBot/tree/videorecorder)
+                                                                                                    
 - MERN stack digital journal application [MiState](https://github.com/CoreySumma/mern-mistate) - login with email: guest@email.com pw: visitor123!
 
 <hr>
