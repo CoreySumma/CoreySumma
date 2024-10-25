@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Corey</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">~Software Engineer~</h3>
 <h4>As a passionate problem solver, I am enthusiastic about modern technologies and dedicated to finding simple and efficient solutions for complex challenges.</h4>
 
 Feel free to check out my [Website Portfolio](https://coreysumma.github.io/portfolioweb/) and learn a little bit more about me, my professional experience, and to view a full list of my projects.
