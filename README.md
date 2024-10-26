@@ -19,7 +19,7 @@ Featured Projects:
   
 <hr>
 
-- [📄 Know about my experiences]([https://docs.google.com/document/d/1KO7WiUp1vmVDZTNWmt2-k_b-tQKVsbAdwrCu5Igy8w0/edit?usp=sharing]
+- [📄 Know about my experiences](https://docs.google.com/document/d/1KO7WiUp1vmVDZTNWmt2-k_b-tQKVsbAdwrCu5Igy8w0/edit?usp=sharing)
   
 <hr>
 
